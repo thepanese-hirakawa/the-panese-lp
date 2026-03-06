@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- LP トップ -->
+  <url>
+    <loc>https://shikaku.jp/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- コラム一覧 -->
+  <url>
+    <loc>https://shikaku.jp/column/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- コラム記事 01-50 -->
+  <url><loc>https://shikaku.jp/column/article_01.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_02.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_03.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_04.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_05.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_06.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_07.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_08.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_09.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_10.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_11.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_12.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_13.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_14.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_15.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_16.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_17.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_18.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_19.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_20.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_21.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_22.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_23.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_24.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_25.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_26.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_27.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_28.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_29.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_30.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_31.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_32.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_33.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_34.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_35.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_36.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_37.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_38.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_39.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_40.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_41.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_42.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_43.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_44.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_45.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_46.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_47.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_48.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_49.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shikaku.jp/column/article_50.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
